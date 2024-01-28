@@ -1,6 +1,11 @@
 # Sunmulon-Convex-Flat-Plungers
 Replacement plungers for Sunmulon pushbuttons
+
 Sprue set of 8 in each file
+
+Test prints were done in MJF PA-12 nylon and SLA 9000R white resin from JLCPCB.
+
+Recommend entering "Please print facing flat down. All wall thickness risks are acceptable" in the 3D remarks section
 
 CHANGELOG:
 
